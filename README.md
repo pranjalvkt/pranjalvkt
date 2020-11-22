@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/wave.gif" width="30px">
 
 Hi, Nice to meet you.
 I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own. You can find me on [![Twitter][1.2]][1].

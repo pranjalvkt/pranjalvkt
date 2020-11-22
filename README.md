@@ -6,7 +6,7 @@ I'm a bit of a digital product junky. Over the years, I've used hundreds of web 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/). as well as on [Team CodeHub](https://teamcodehub.github.io/CodeHub.github.io/).
+Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/) as well as on [Team CodeHub](https://teamcodehub.github.io/CodeHub.github.io/).
 
 ## 🔧 Technologies & Tools
 

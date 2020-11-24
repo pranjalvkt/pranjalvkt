@@ -8,6 +8,8 @@ I'm a bit of a digital product junky. Over the years, I've used hundreds of web 
 
 Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/) as well as on [Team CodeHub](https://teamcodehub.github.io/CodeHub.github.io/).
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-yellowgreen)

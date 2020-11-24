@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/wave.gif" width="30px">
 
-Hi, Nice to meet you.
+Nice to meet you.
 I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="320" />

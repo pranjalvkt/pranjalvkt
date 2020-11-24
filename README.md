@@ -2,7 +2,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/wave.gif" width="30px">
 
 Hi, Nice to meet you.
-I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own. You can find me on [![Twitter][1.2]][1].
+I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own.
 
 ## &#x270d; Blog & Writing
 
@@ -21,18 +21,18 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
 ![](https://img.shields.io/badge/Shell-Bash-yellowgreen)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-yellowgreen)
 
+## 🔍 You can find me on
 
-<!-- links to social media icons -->
+<a href="https://twitter.com/pranjalvkt">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/pranjalvk">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/pranjalvktripathi/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/pranjalvkt">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/pranjalvkt

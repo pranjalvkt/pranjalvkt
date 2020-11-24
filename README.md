@@ -4,11 +4,12 @@
 Hi, Nice to meet you.
 I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="320" />
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/) as well as on [Team CodeHub](https://teamcodehub.github.io/CodeHub.github.io/).
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="320" />
 
 ## 🔧 Technologies & Tools
 

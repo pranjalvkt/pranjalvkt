@@ -28,23 +28,23 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-yellowgreen)
 
 <br/>
-
-<p align = "center">
-    <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalvkt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalvkt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
   <p align = "center">
+    <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalvkt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <br/>
+    </a>
+    </p>
+    <p align = "center">
+    <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalvkt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
+  <p align = "center">
     <a href="https://github.com/pranjalvkt/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pranjalvkt streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalvkt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-  <br/>
-<br/>
+  
   <a href="https://github.com/pranjalvkt/github-readme-activity-graph"><img alt="pranjalvkt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pranjalvkt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   </p>
 <br/>

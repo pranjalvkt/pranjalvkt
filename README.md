@@ -8,6 +8,7 @@ I'm a bit of a digital product junky. Over the years, I've used hundreds of web 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="310" />
 
 <br/>
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/) as well as on [Team CodeHub](https://teamcodehub.herokuapp.com).
@@ -28,6 +29,7 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-yellowgreen)
 
 <br/>
+
 ## 📊 My Github Stats
 
   <br/>

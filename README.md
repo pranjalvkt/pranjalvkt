@@ -5,12 +5,14 @@ Nice to meet you.
 I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own.
 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="310" />
 
+<br/>
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/) as well as on [Team CodeHub](https://teamcodehub.herokuapp.com).
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="370" />
+<br/>
 
 ## 🔧 Technologies & Tools
 
@@ -27,8 +29,10 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
 
 <br/>
 
-<p>
+<p align = "center">
     <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalvkt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalvkt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 
@@ -36,10 +40,6 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
 
   <br/>
   <p align = "center">
-    <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalvkt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-  <br/>
-<br/>
     <a href="https://github.com/pranjalvkt/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pranjalvkt streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalvkt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>

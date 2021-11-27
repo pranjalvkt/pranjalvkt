@@ -18,15 +18,17 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-yellowgreen)
+![](https://img.shields.io/badge/OS-Windows-yellowgreen)
 ![](https://img.shields.io/badge/Editor-Atom-yellowgreen)
 ![](https://img.shields.io/badge/Editor-VS_Code-yellowgreen)
+![](https://img.shields.io/badge/IDE-Eclipse-yellowgreen)
 ![](https://img.shields.io/badge/Code-Java-yellowgreen)
-![](https://img.shields.io/badge/Code-Python-yellowgreen)
 ![](https://img.shields.io/badge/Code-Java_Script-yellowgreen)
 ![](https://img.shields.io/badge/Code-Dart-yellowgreen)
-![](https://img.shields.io/badge/Code-Cpp-yellowgreen)
 ![](https://img.shields.io/badge/Shell-Bash-yellowgreen)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-yellowgreen)
+![](https://img.shields.io/badge/Cloud-GCP-yellowgreen)
+
 
 <br/>
 

@@ -1,35 +1,43 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/wave.gif" width="30px">
+<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/wave.gif" width="30px"></h1>
 
-Nice to meet you.
-I'm a bit of a digital product junky. Over the years, I've used hundreds of web and mobile apps. Eventually, I decided that it would be a fun challenge to try designing and building my own.
+<h3 align="center">I'm Pranjal Tripathi, Software Engineer at GlobalLogic</h3>
 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="310" />
-
-<br/>
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my writings on my website at [QuilWrites](https://quillwrites.wordpress.com/) as well as on [Team CodeHub](https://teamcodehub.herokuapp.com).
-
+<div align="center">
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/code.gif" width="500" height="310" />
+</div>
 <br/>
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-yellowgreen)
+![](https://img.shields.io/badge/OS-Mac-yellowgreen)
 ![](https://img.shields.io/badge/OS-Windows-yellowgreen)
 ![](https://img.shields.io/badge/Editor-Atom-yellowgreen)
 ![](https://img.shields.io/badge/Editor-VS_Code-yellowgreen)
-![](https://img.shields.io/badge/IDE-Eclipse-yellowgreen)
+![](https://img.shields.io/badge/Code-ReactJS-yellowgreen)
 ![](https://img.shields.io/badge/Code-Java-yellowgreen)
 ![](https://img.shields.io/badge/Code-Java_Script-yellowgreen)
-![](https://img.shields.io/badge/Code-Dart-yellowgreen)
 ![](https://img.shields.io/badge/Shell-Bash-yellowgreen)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-yellowgreen)
-![](https://img.shields.io/badge/Cloud-GCP-yellowgreen)
-
-
+![](https://img.shields.io/badge/GenAI-Github_Copilot-yellowgreen)
+<br/>
+<br/>
+## 🔍 You can find me on
+<div align= "right">
+<a align="center" href="https://www.hackerrank.com/pranjalvkt">
+  <img align="left" alt="Pranjal's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+</a>
+<a href="https://www.linkedin.com/in/pranjalvkt/">
+  <img align="left" alt="Pranjal's LinkedIn" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+</a>
+<a href="mailto:pranjalvktripathi@gmail.com">
+  <img align="left" alt="Pranjal's Gmail" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
+</a>
+<a href="https://leetcode.com/pranjalvkt/">
+  <img align="left" alt="Pranjal's Leetcode" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />
+</a>
+</div>
+<br/>
 <br/>
 
 ## 📊 My Github Stats
@@ -51,21 +59,5 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
   </p>
 <br/>
 
-## 🔍 You can find me on
 
-<a href="https://twitter.com/pranjalvkt">
-  <img align="left" alt="Pranjal Tripathi' | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/pranjalvkt">
-  <img align="left" alt="Pranjal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/pranjalvktripathi/">
-  <img align="left" alt="Pranjal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/pranjalvktripathi/">
-  <img align="left" alt="Pranjal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/pranjalvkt">
-  <img align="left" alt="Pranjal's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
-</a>
 

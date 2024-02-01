@@ -48,8 +48,6 @@ Apart from coding, I also maintain a blog - you can find my writings on my websi
     <a href="https://github.com/pranjalvkt/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pranjalvkt streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalvkt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-  
-  <a href="https://github.com/pranjalvkt/github-readme-activity-graph"><img alt="pranjalvkt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pranjalvkt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   </p>
 <br/>
 

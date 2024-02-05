@@ -41,11 +41,15 @@
 <br/>
 
 ## 📊 My Github Stats
+<p align = "center">
+    <a href="">
+      <img alt="pranjalvkt Github Stats" src="https://github-profile-trophy.vercel.app/?username=pranjalvkt&rank=-?&margin-w=15" />
+    </a>
+    </p>
 
   <br/>
   <p align = "center">
     <a href="https://github.com/pranjalvkt/github-readme-stats"><img alt="pranjalvkt Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalvkt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-        <br/>
     </a>
     </p>
     <p align = "center">

@@ -45,7 +45,7 @@
 ## 🤏🏻 A little more about me...
 
 ```javascript
-const anmol = {
+const pranjal = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "travelling"],

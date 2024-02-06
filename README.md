@@ -40,6 +40,10 @@
 <br/>
 <br/>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 📊 My Github Stats
 <p align = "center">
     <a href="">

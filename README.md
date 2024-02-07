@@ -42,6 +42,12 @@
 <br/>
 <br/>
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx pranjal
+```
+
 ## 🤏🏻 A little more about me...
 
 ```javascript

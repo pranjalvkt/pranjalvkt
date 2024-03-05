@@ -75,7 +75,7 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -146,7 +146,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2024 00:52:13 UTC
+ Last Updated on 05/03/2024 00:51:04 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

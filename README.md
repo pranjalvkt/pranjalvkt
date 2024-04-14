@@ -118,13 +118,16 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 21 mins        ████████████████████████░   95.72 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +143,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 00:43:16 UTC
+ Last Updated on 14/04/2024 01:08:00 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

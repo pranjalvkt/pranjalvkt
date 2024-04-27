@@ -75,7 +75,7 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,6 +84,8 @@ const pranjal = {
 **🐱 My GitHub Data** 
 
 > 📦 73.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -140,7 +142,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 00:53:31 UTC
+ Last Updated on 27/04/2024 00:52:50 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

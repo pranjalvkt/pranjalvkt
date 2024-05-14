@@ -85,6 +85,8 @@ const pranjal = {
 
 > 📦 73.2 kB Used in GitHub's Storage 
  > 
+> 🏆 16 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -140,7 +142,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2024 00:56:05 UTC
+ Last Updated on 14/05/2024 00:55:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

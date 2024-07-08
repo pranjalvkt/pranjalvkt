@@ -85,6 +85,8 @@ const pranjal = {
 
 > 📦 73.6 kB Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -118,13 +120,15 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               35 mins             █████████████████░░░░░░░░   67.61 % 
+HTML                     16 mins             ████████░░░░░░░░░░░░░░░░░   31.24 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +144,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2024 01:03:26 UTC
+ Last Updated on 08/07/2024 01:00:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

@@ -74,7 +74,7 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -144,7 +144,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2024 01:08:51 UTC
+ Last Updated on 26/10/2024 01:06:25 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

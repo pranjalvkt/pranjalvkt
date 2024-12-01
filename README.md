@@ -74,8 +74,6 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
@@ -119,14 +117,14 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     20 mins             ████████████████████░░░░░   79.11 % 
-JavaScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+JavaScript               23 mins             █████████████░░░░░░░░░░░░   53.89 % 
+HTML                     20 mins             ████████████░░░░░░░░░░░░░   46.11 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +140,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 01:11:17 UTC
+ Last Updated on 01/12/2024 01:24:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

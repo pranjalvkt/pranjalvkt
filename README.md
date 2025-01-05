@@ -13,7 +13,7 @@
   <img align="left" alt="Pranjal's Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pranjalvkt/">
-  <img align="left" alt="Pranjal's LinkedIn" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+  <img align="left" alt="Pranjal's LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="mailto:pranjalvktripathi@gmail.com">
   <img align="left" alt="Pranjal's Gmail" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />

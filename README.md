@@ -74,17 +74,15 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 75.6 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -119,17 +117,17 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 43 mins       █████████████████████████   98.65 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JavaScript               8 hrs 34 mins       █████████████████████████   98.63 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +143,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2025 01:07:53 UTC
+ Last Updated on 21/01/2025 01:06:24 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

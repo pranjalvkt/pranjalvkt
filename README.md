@@ -74,9 +74,9 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -135,17 +135,17 @@ Mac                      6 hrs 19 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-Java                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
+Java                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 03/02/2025 01:08:25 UTC
+ Last Updated on 04/02/2025 01:07:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

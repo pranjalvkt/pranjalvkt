@@ -74,7 +74,7 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,6 +83,8 @@ const pranjal = {
 **🐱 My GitHub Data** 
 
 > 📦 75.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -142,7 +144,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 01:22:10 UTC
+ Last Updated on 02/04/2025 01:14:40 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

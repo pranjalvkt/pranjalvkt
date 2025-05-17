@@ -82,7 +82,7 @@ const pranjal = {
 
 **🐱 My GitHub Data** 
 
-> 📦 76.0 kB Used in GitHub's Storage 
+> 📦 76.1 kB Used in GitHub's Storage 
  > 
 > 🏆 100 Contributions in the Year 2025
  > 
@@ -119,13 +119,14 @@ Sunday                   78 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               52 mins             █████████████░░░░░░░░░░░░   53.28 % 
+JSON                     46 mins             ████████████░░░░░░░░░░░░░   46.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +142,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 01:19:02 UTC
+ Last Updated on 17/05/2025 01:17:14 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

@@ -84,8 +84,6 @@ const pranjal = {
 
 > 📦 91.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -141,7 +139,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2025 01:26:13 UTC
+ Last Updated on 02/09/2025 01:16:07 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

@@ -74,6 +74,8 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
@@ -90,6 +92,42 @@ const pranjal = {
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+🌆 Daytime                174 commits         ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌃 Evening                286 commits         █████████████░░░░░░░░░░░░   50.35 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Tuesday                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Wednesday                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Thursday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Friday                   110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Saturday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +141,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 01:11:50 UTC
+ Last Updated on 18/09/2025 01:12:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

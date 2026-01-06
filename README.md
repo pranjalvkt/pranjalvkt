@@ -74,9 +74,11 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -90,6 +92,42 @@ const pranjal = {
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                108 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+🌆 Daytime                180 commits         ████████░░░░░░░░░░░░░░░░░   31.20 % 
+🌃 Evening                289 commits         █████████████░░░░░░░░░░░░   50.09 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Tuesday                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Wednesday                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Thursday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Friday                   110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Saturday                 125 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Sunday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,7 +141,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:42:57 UTC
+ Last Updated on 06/01/2026 01:25:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

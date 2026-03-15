@@ -74,7 +74,7 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -82,15 +82,15 @@ const pranjal = {
 
 **🐱 My GitHub Data** 
 
-> 📦 92.2 kB Used in GitHub's Storage 
+> 📦 92.7 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 33 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -119,16 +119,17 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 41 mins        ███████████████████░░░░░░   77.98 % 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+HTML                     46 mins             ███████████████████░░░░░░   75.94 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +145,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2026 01:50:02 UTC
+ Last Updated on 15/03/2026 02:06:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

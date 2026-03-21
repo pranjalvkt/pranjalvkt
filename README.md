@@ -76,13 +76,13 @@ const pranjal = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.53%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 92.7 kB Used in GitHub's Storage 
+> 📦 94.4 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -119,16 +119,16 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     46 mins             ████████████████████░░░░░   80.56 % 
-JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+HTML                     1 hr 30 mins        ████████████████████░░░░░   80.62 % 
+CSS                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +144,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 01:54:16 UTC
+ Last Updated on 21/03/2026 01:48:25 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

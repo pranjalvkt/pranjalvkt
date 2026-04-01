@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/pranjalvkt/pranjalvkt/main/wave.gif" width="30px"></h1>
 
-<h3 align="center">I'm Pranjal Tripathi, Software Engineer at Boomi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
+<h3 align="center">I'm Pranjal Tripathi, Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
 
 
 

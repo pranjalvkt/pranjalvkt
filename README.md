@@ -74,7 +74,7 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -119,14 +119,15 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        ██████████████████████░░░   88.68 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+JavaScript               1 hr 58 mins        ██████████████████████░░░   87.73 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,7 +143,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 02:41:39 UTC
+ Last Updated on 11/05/2026 02:51:18 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

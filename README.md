@@ -119,13 +119,13 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +141,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 04:00:27 UTC
+ Last Updated on 20/06/2026 03:23:48 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

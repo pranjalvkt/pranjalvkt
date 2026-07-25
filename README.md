@@ -90,42 +90,6 @@ const pranjal = {
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                110 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌆 Daytime                192 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening                302 commits         ████████████░░░░░░░░░░░░░   49.59 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Tuesday                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Wednesday                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Friday                   111 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Saturday                 125 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -139,7 +103,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:24:52 UTC
+ Last Updated on 25/07/2026 02:23:20 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

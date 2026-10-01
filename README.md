@@ -84,13 +84,13 @@ const pranjal = {
 
 **🐱 My GitHub Data** 
 
-> 📦 94.4 kB Used in GitHub's Storage 
+> 📦 94.5 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2026
+> 🏆 36 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 37 Private Repositories 
  > 
@@ -121,55 +121,56 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               29 mins             ███████████████░░░░░░░░░░   59.26 % 
-CSS                      15 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+TypeScript               1 hr 36 mins        █████████████████░░░░░░░░   68.58 % 
+Image (svg)              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-Codex Vscode             38 mins             ███████████████████░░░░░░   77.23 % 
-VS Code                  11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+VS Code                  1 hr 12 mins        █████████████░░░░░░░░░░░░   51.60 % 
+Codex Vscode             1 hr 8 mins         ████████████░░░░░░░░░░░░░   48.40 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (89.84%)
+⏱ AI Coding Time: 1 hr 23 mins (59.45%)
 
-✍️ 968 lines written by AI, 1 lines written by hand (99.9% AI-written)
+✍️ 2,266 lines written by AI, 34 lines written by hand (98.52% AI-written)
 
-🔤 178,755 Input Tokens, 94,620 Output Tokens
+🔤 490,678 Input Tokens, 121,684 Output Tokens
 
-💵 $12.36 Estimated AI Cost This Week
+💵 $12.46 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 19 AI Prompts
 
-GPT                      968 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,428 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 1,309 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 98.52% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 2.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JavaScript               26 repos            ██████████░░░░░░░░░░░░░░░   41.27 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 30/09/2026 03:51:47 UTC
+ Last Updated on 01/10/2026 03:59:46 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

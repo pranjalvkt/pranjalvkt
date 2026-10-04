@@ -121,15 +121,15 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        █████████████████░░░░░░░░   68.58 % 
-Image (svg)              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+TypeScript               1 hr 36 mins        █████████████████░░░░░░░░   68.53 % 
+Image (svg)              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████░░░░░░░░░░░░   51.60 % 
-Codex Vscode             1 hr 8 mins         ████████████░░░░░░░░░░░░░   48.40 % 
+VS Code                  1 hr 12 mins        █████████████░░░░░░░░░░░░   51.64 % 
+Codex Vscode             1 hr 8 mins         ████████████░░░░░░░░░░░░░   48.36 % 
 
 💻 Operating System: 
 Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
@@ -138,7 +138,7 @@ Mac                      2 hrs 20 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (59.45%)
+⏱ AI Coding Time: 1 hr 23 mins (59.4%)
 
 ✍️ 2,266 lines written by AI, 34 lines written by hand (98.52% AI-written)
 
@@ -170,7 +170,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:41:16 UTC
+ Last Updated on 04/10/2026 04:11:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

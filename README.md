@@ -121,40 +121,21 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        █████████████████░░░░░░░░   68.53 % 
-Image (svg)              20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Image (svg)              2 mins              ██████████████████░░░░░░░   73.06 % 
+CSS                      0 secs              ███████░░░░░░░░░░░░░░░░░░   26.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████░░░░░░░░░░░░   51.64 % 
-Codex Vscode             1 hr 8 mins         ████████████░░░░░░░░░░░░░   48.36 % 
+Codex Vscode             0 secs              █████████████████████░░░░   82.18 % 
+VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (59.4%)
-
-✍️ 2,266 lines written by AI, 34 lines written by hand (98.52% AI-written)
-
-🔤 490,678 Input Tokens, 121,684 Output Tokens
-
-💵 $12.46 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 19 AI Prompts
-
-GPT                      2,428 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.52% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 2.45% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +151,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 04:09:36 UTC
+ Last Updated on 08/10/2026 04:22:15 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

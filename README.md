@@ -121,15 +121,13 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Image (svg)              2 mins              ██████████████████░░░░░░░   73.06 % 
-CSS                      0 secs              ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             0 secs              █████████████████████░░░░   82.18 % 
-VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -151,7 +149,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 04:12:15 UTC
+ Last Updated on 11/10/2026 03:49:36 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

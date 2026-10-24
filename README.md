@@ -121,19 +121,38 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               45 mins             ████████████████████████░   97.76 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             29 mins             ████████████████░░░░░░░░░   64.37 % 
+VS Code                  16 mins             █████████░░░░░░░░░░░░░░░░   35.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 41 mins (89.26%)
+
+✍️ 123 lines written by AI, 1 lines written by hand (99.19% AI-written)
+
+🔤 92,535 Input Tokens, 18,459 Output Tokens
+
+💵 $0.03 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+GPT                      130 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.19% of written lines came from AI
+📚 Verbose Prompter — average 4,788 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,7 +168,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 03:16:08 UTC
+ Last Updated on 24/10/2026 03:10:04 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

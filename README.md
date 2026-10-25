@@ -74,9 +74,9 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -84,13 +84,13 @@ const pranjal = {
 
 **🐱 My GitHub Data** 
 
-> 📦 94.5 kB Used in GitHub's Storage 
+> 📦 94.7 kB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2026
+> 🏆 37 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 37 Private Repositories 
  > 
@@ -121,54 +121,56 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               45 mins             ████████████████████████░   97.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript               1 hr 29 mins        ██████████████████░░░░░░░   70.38 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Codex Vscode             29 mins             ████████████████░░░░░░░░░   64.37 % 
-VS Code                  16 mins             █████████░░░░░░░░░░░░░░░░   35.63 % 
+Codex Vscode             1 hr 6 mins         █████████████░░░░░░░░░░░░   52.36 % 
+VS Code                  1 hr                ████████████░░░░░░░░░░░░░   47.64 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (89.26%)
+⏱ AI Coding Time: 1 hr 58 mins (93.13%)
 
-✍️ 123 lines written by AI, 1 lines written by hand (99.19% AI-written)
+✍️ 2,842 lines written by AI, 3 lines written by hand (99.89% AI-written)
 
-🔤 92,535 Input Tokens, 18,459 Output Tokens
+🔤 814,287 Input Tokens, 242,818 Output Tokens
 
-💵 $0.03 Estimated AI Cost This Week
+💵 $0.58 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 53 AI Prompts
 
-GPT                      130 lines           █████████████████████████   100.00 % 
+GPT                      2,894 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📚 Verbose Prompter — average 4,788 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.52% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 1,828 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            ██████████░░░░░░░░░░░░░░░   41.27 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               27 repos            ███████████░░░░░░░░░░░░░░   42.19 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 24/10/2026 03:10:04 UTC
+ Last Updated on 25/10/2026 03:05:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats

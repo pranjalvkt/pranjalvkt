@@ -74,9 +74,9 @@ const pranjal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -121,26 +121,26 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 59 mins       ████████████████░░░░░░░░░   64.96 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript               3 hrs 14 mins       █████████████████░░░░░░░░   66.60 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       ████████████████░░░░░░░░░   63.08 % 
-Codex Vscode             1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   36.92 % 
+VS Code                  3 hrs 9 mins        ████████████████░░░░░░░░░   64.93 % 
+Codex Vscode             1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   35.07 % 
 
 💻 Operating System: 
-Mac                      4 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 51 mins (83.65%)
+⏱ AI Coding Time: 3 hrs 51 mins (79.47%)
 
-✍️ 5,255 lines written by AI, 15 lines written by hand (99.72% AI-written)
+✍️ 5,255 lines written by AI, 16 lines written by hand (99.7% AI-written)
 
 🔤 1,557,509 Input Tokens, 470,805 Output Tokens
 
@@ -151,10 +151,10 @@ Mac                      4 hrs 37 mins       ███████████�
 GPT                      5,367 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
+🤖 AI-Driven — 99.7% of written lines came from AI
 📄 Detailed Prompter — average 1,284 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 1.78% of changed lines were hand-edited
+🚀 High AI Trust — 1.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +170,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:04:43 UTC
+ Last Updated on 27/10/2026 03:36:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 My Github Stats
